@@ -1,7 +1,7 @@
 # Distributed Systems & Architecture
 > A collection of awesome software, libraries and frameworks, design and architecture principles, books and videos, important resources and best practices about Distributed Systems & Architecture. Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
-## <a name='toc'>Table of Contents</a>
+## `<a name='toc'>Table of Contents</a>`
 - [ ] [System Design Interview Tips & PS/DS](#tips)
 - [ ] [Basic Knowledge about System Design](#intro)
 - [ ] [Company Engineering Blogs](#blog)
