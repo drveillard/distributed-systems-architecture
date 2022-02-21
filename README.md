@@ -394,3 +394,13 @@ Use design patterns such that it can be reused in multiple applications.
 * [GoLang to Node.Js](https://medium.com/thecobbles/why-we-moved-from-golang-to-nodejs-cecf66a47740)
 * [Documenting Software Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
 * [Choosing the correct storage solutions](https://www.codekarle.com/system-design/Database-system-design.html)
+
+
+
+## `Contributing`
+
+You want to contribute to this project? [Please follow these recommendations](contributing.md).
+
+## `License`
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/licenses/by/2.0/)
